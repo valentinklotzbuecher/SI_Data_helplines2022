@@ -1,4 +1,3 @@
-# SI_Data_helplines2022
 
 # Supplementary files for *"Young people's mental and social distress in times of international crises: Evidence from helpline calls, 2019-2022"*
 Marius Brülhart, Valentin Klotzbücher & Rafael Lalive, September 2022
