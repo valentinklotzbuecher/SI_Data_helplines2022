@@ -1,6 +1,7 @@
 
 ## Supplementary files for *"Young people's mental and social distress in times of international crisis: evidence from helpline calls, 2019-2022"*
 Marius Brülhart, Valentin Klotzbücher & Rafael Lalive, *Scientific Reports* **13**, 11858 (2023)
+https://doi.org/10.1038/s41598-023-39064-y
 
 SI_Data_xlsx contains Figure source data and detailed numerical estimation results
 
